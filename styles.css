@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+h1{
+  text-align: center;
+  padding: 20px;
+  color: red;
+  background-color: green;
+sub{
+  width: 30%;
+  padding: 5px;
+  border: 2px solid grey
+}
+}
+.registration{
+  margin: auto;
+  padding: 20px;
+  border: 2px solid solid gold;
+  border-radius: 5px;
+  width: 30%;
+
+}
+label{
+  font-size: 20px;
+}
+.field, {
+  width: 100%;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 5px
+}
